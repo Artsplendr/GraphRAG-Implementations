@@ -12,6 +12,6 @@ The goal of this project is to reproduce tutorial "GraphRAG Implementation with 
 
 **2-GraphRAG-with-OpenAI-ScientificDataset**
 
-The goal of this project is to experiment with a **Graph-based Retrieval-Augmented Generation (GraphRAG)** pipeline to analyze and query **scientific documents** from the dataset **GSAP-NER**, which consists of 100 manually annotated full-text scientific publications, focusing on machine learning models and datasets. This resource is valuable for extracting scholarly entities related to machine learning and available at [this link](https://arxiv.org/abs/2311.09860).
+The goal of this project is to experiment with a **Graph-based Retrieval-Augmented Generation (GraphRAG)** pipeline to analyze and query **scientific documents** from the dataset **GSAP-NER**, which consists of 100 manually annotated full-text scientific publications, focusing on machine learning models and datasets. This resource is available at [this link](https://arxiv.org/abs/2311.09860).
 
 If you find this repository useful, light the star ⭐:)! 
