@@ -5,6 +5,7 @@ The concept of **GraphRAG** was first introduced in the research paper titled **
 This paper addresses the limitations of traditional Retrieval-Augmented Generation (RAG) systems when handling global queries over extensive text corpora. The authors propose a novel approach that integrates large language models (LLMs) with graph-based text indexing to construct an entity knowledge graph from source documents. By generating community summaries for groups of related entities, the system can produce comprehensive and diverse responses to broad, sensemaking questions. Evaluations demonstrate that this Graph RAG method significantly outperforms baseline RAG models in both comprehensiveness and diversity of answers, particularly for large datasets.
 
 This repository contains two notebooks:
+
 **1-GraphRAG-with-LlamaIndex.ipynb**
 The goal of this project is to reproduce tutorial "GraphRAG Implementation with LlamaIndex", which is available at at LlamaIndex.a at this [link.](https://docs.llamaindex.ai/en/stable/examples/cookbooks/GraphRAG_v1/)⭐
 
