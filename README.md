@@ -8,7 +8,7 @@ This repository contains two notebooks:
 
 **1-GraphRAG-with-LlamaIndex.ipynb**
 
-The goal of this project is to reproduce tutorial "GraphRAG Implementation with LlamaIndex", which is available at at LlamaIndex.ai at this [link.](https://docs.llamaindex.ai/en/stable/examples/cookbooks/GraphRAG_v1/)⭐
+The goal of this project is to reproduce tutorial "GraphRAG Implementation with LlamaIndex", which is available at this [link.](https://docs.llamaindex.ai/en/stable/examples/cookbooks/GraphRAG_v1/)⭐
 
 **2-GraphRAG-with-OpenAI-ScientificDataset**
 
