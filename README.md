@@ -8,10 +8,10 @@ This repository contains two notebooks:
 
 **1-GraphRAG-with-LlamaIndex.ipynb**
 
-The goal of this project is to reproduce tutorial "GraphRAG Implementation with LlamaIndex", which is available at this [link.](https://docs.llamaindex.ai/en/stable/examples/cookbooks/GraphRAG_v1/)⭐
+The goal of this project is to reproduce tutorial "GraphRAG Implementation with LlamaIndex", which is available at this [link.](https://docs.llamaindex.ai/en/stable/examples/cookbooks/GraphRAG_v1/)
 
 **2-GraphRAG-with-OpenAI-ScientificDataset**
 
 The goal of this project is to experiment with a **Graph-based Retrieval-Augmented Generation (GraphRAG)** pipeline to analyze and query **scientific documents** from the dataset **GSAP-NER**, which consists of 100 manually annotated full-text scientific publications, focusing on machine learning models and datasets. This resource is available at [this link](https://arxiv.org/abs/2311.09860).
 
-If you find this repository useful, light the star ⭐:)! 
+If you find this repository useful, drop it the star ⭐:)! 
